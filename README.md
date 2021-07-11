@@ -17,7 +17,7 @@ or <a href="mailto:surajjadhav7rk@gmail.com"><b>email</b></a> me
 
 
 
-<img align="right" src="https://user-images.githubusercontent.com/69894599/125185933-15206f00-e245-11eb-8db0-40632877ca05.png" width="400px"/>
+<img align="right" src="https://user-images.githubusercontent.com/69894599/125185933-15206f00-e245-11eb-8db0-40632877ca05.png" width="350px"/>
 
 
 ## Talking about Personal Stuffs:
