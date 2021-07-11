@@ -164,7 +164,7 @@ ISBN:978-93-5391-520-9	](https://pdfhost.io/v/Jb~H4Kg3T_DJSPARK_2020_Our_Paper_P
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 
-<a href="www.linkedin.com/in/suraj-jadhav7rk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/suraj-jadhav7rk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/__surajj__25/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/suraj.jadhav.39142072" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
     <a href="https://codepen.io/jadhavsuraj7rk" target="_blank"><img src="https://img.shields.io/badge/Codepen-%233FF6AB.svg?&style=flat-square&logo=codepen&logoColor=black" alt="codepen"></a>
