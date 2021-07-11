@@ -97,7 +97,7 @@ ISBN:978-93-5391-520-9	](https://pdfhost.io/v/Jb~H4Kg3T_DJSPARK_2020_Our_Paper_P
   
     
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/69894599/125189002-c9c18d00-e253-11eb-813e-2daa7ad5fa3b.gif"> 
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/69894599/125197657-3c466300-e27c-11eb-9c66-f54ef4a80e7d.gif"> 
   
 ##  🏆 Certifications!
 <Br>
