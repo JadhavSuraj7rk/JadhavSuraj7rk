@@ -86,7 +86,7 @@ or <a href="mailto:surajjadhav7rk@gmail.com"><b>email</b></a> me
 
 
 
-## :memo: Technical paper Publication
+## :memo: Technical Paper Publication
 > [©IETE-SF	Department	of	Electronics	and	Telecommunication
 Engineering,	DJSCE
 DJ	SPARK 2020
