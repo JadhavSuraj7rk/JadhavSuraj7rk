@@ -10,7 +10,7 @@
 <div align="center">
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/JadhavSuraj7rk/SMART_TOILET/issues"><b>here</b></a><br>
+Ask me anything <a href="https://github.com/JadhavSuraj7rk/JadhavSuraj7rk/issues/new"><b>here</b></a><br>
 or <a href="mailto:surajjadhav7rk@gmail.com"><b>email</b></a> me
 <i>Happy Coding!</i> :sun_with_face:
 </div>
@@ -28,7 +28,7 @@ or <a href="mailto:surajjadhav7rk@gmail.com"><b>email</b></a> me
 
 💡 Equipments:  Knowledge , Learning resources, ideas , Inspirational thoughts!
 
-💬 Ask me about anything [here](https://github.com/PtPrashantTripathi/PtPrashantTripathi/issues/1)! I am happy to help.
+💬 Ask me about anything [here](https://github.com/JadhavSuraj7rk/JadhavSuraj7rk/issues/new)! I am happy to help.
 
 ## 👨‍💻 Languages and Tools:
 
@@ -107,36 +107,36 @@ ISBN:978-93-5391-520-9	](https://pdfhost.io/v/Jb~H4Kg3T_DJSPARK_2020_Our_Paper_P
         <tr>
             <td>
                 <!--Introduction to python -->
-                <a href="https://user-images.githubusercontent.com/69894599/125184950-69285500-e23f-11eb-9d05-f0b67c0b021d.jpg"><img alt="HTML5" title="HTML5" height="28px"
+                <a href="https://user-images.githubusercontent.com/69894599/125184950-69285500-e23f-11eb-9d05-f0b67c0b021d.jpg"><img alt="Introduction to python" title="Introduction to python" height="28px"
                         src="https://img.shields.io/badge/Introduction%20to%20Python-red?style=for-the-badge" /></a>  
             </td>
             <td>
                <!-- Jovian Data Science -->
-              <a href="https://user-images.githubusercontent.com/69894599/125185029-d63bea80-e23f-11eb-91f5-7ef66159ac63.jpg"><img alt="HTML5" title="HTML5" height="28px"
+              <a href="https://user-images.githubusercontent.com/69894599/125185029-d63bea80-e23f-11eb-91f5-7ef66159ac63.jpg"><img alt="Jovian Data Science" title="Jovian Data Science" height="28px"
                         src="https://img.shields.io/badge/Data%20Science%20-I-orange?style=for-the-badge" /></a>
             </td>
         </tr>
          <tr>
             <td>
                 <!-- Data science II -->
-                <a href="#"><img alt="HTML5" title="HTML5" height="28px"
+                <a href="#"><img alt="Data science" title="Data science" height="28px"
                         src="https://img.shields.io/badge/Data%20Science%20-II-orange?style=for-the-badge" /></a>  
             </td>
             <td>
                <!-- Web DEV  -->
-                <a href="https://user-images.githubusercontent.com/69894599/125185069-1602d200-e240-11eb-9536-ce8d3b960270.jpg"><img alt="HTML5" title="HTML5" height="28px"
+                <a href="https://user-images.githubusercontent.com/69894599/125185069-1602d200-e240-11eb-9536-ce8d3b960270.jpg"><img alt="Web DEV" title="Web DEV" height="28px"
                         src="https://img.shields.io/badge/Web%20Development-purple?style=for-the-badge" /></a>
             </td>
         </tr>
          <tr>
             <td>
                <!-- C  -->
-                <a href="https://user-images.githubusercontent.com/69894599/125185090-36329100-e240-11eb-8eb4-7806762c3d09.jpg"><img alt="HTML5" title="HTML5" height="28px"
+                <a href="https://user-images.githubusercontent.com/69894599/125185090-36329100-e240-11eb-8eb4-7806762c3d09.jpg"><img alt="C" title="C" height="28px"
                         src="https://img.shields.io/badge/C%20Programming-EB7F97?style=for-the-badge" /></a>  
             </td>
             <td>
                 <!-- MASKtek project comp  -->
-                <a href="https://user-images.githubusercontent.com/69894599/125185100-48143400-e240-11eb-8e8e-3f889fcce49e.jpg"><img alt="HTML5" title="HTML5" height="28px"
+                <a href="https://user-images.githubusercontent.com/69894599/125185100-48143400-e240-11eb-8e8e-3f889fcce49e.jpg"><img alt="MASKtek project comp" title="MASKtek project comp" height="28px"
                         src="https://img.shields.io/badge/Competition%20-I-F8F2CB?style=for-the-badge" /></a>
             </td>
         </tr>
