@@ -22,7 +22,7 @@ or <a href="mailto:surajjadhav7rk@gmail.com"><b>email</b></a> me
 
 ## Talking about Personal Stuffs:
 
-💻 I’m currently learning Full Stack Development 🚀.
+💻 I’m currently working on embedded systems 🚀.
 
 🧩 Interested in: Technology, Web Development , IOT , and  Hardware stuff.
 
